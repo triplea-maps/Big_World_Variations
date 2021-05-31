@@ -1,0 +1,5 @@
+map_name: big_world_variations
+games:
+- {game_name: 'Big World : Small''s 1939', file_name: Smalls_1939.xml}
+- {game_name: 'Big World : June 1942', file_name: Big_World_June_1942.xml}
+- {game_name: 'Big World : NekahNet''s 1939', file_name: NekahNets_1939_3.xml}
